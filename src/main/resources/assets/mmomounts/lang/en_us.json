@@ -1,0 +1,7 @@
+{
+  "item.mmomounts.entity_capture_item": "Entity Capture Item",
+  "curios.identifier.mount": "Mount Slot",
+  "curios.identifier.mount.description": "The slot where the mount will be equipped.",
+  "key.mmomounts.toggle_mount": "Toggle Mount",
+  "key.categories.mmomounts": "MMO Mounts"
+}
